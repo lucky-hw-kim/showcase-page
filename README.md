@@ -8,7 +8,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/lucky-hw-kim/showcase-page/blob/main/public/doc/React-App.png?raw=true" alt="project-screenshot" width="100%" height="400/">
+<img src="https://github.com/lucky-hw-kim/showcase-page/blob/main/public/doc/React-App.png?raw=true" alt="project-screenshot" width="100%" height="100%/">
 
   
   
